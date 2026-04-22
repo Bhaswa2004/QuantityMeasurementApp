@@ -1,4 +1,4 @@
-static class QuantityLength {
+static class uc7 {
     private final double value;
     private final LengthUnit unit;
 
